@@ -1,6 +1,7 @@
 # 2201ACDS_NM2 Unsupervised Learning Notebook
 
 ## Project Overview
+
 A recommendation system is a subclass of Information filtering Systems that seeks to predict the rating or the preference a user might give to an item. In simple words, it is a system that uses a machine learning algorithms that suggests relevant items to users. There are two main types of recommender systems – personalized and non-personalized. Non-personalized recommendation systems like popularity based recommenders recommend the most popular items to the users, for instance top-10 movies, top selling books, the most frequently purchased products etc.
 
 In today’s technology driven world, recommender systems are socially and economically critical to ensure that individuals can make optimised choices surrounding the content they engage with on a daily basis. This is made possible by personalized recommendation systems. One application where this is especially true is movie recommendations; where intelligent algorithms can help viewers find great titles from tens of thousands of options that is suited to their individual preference.
@@ -13,7 +14,7 @@ Below is the list of all the members of this team who are to participate in this
 
 - Prince Okon
 - Adewale Daniel Odukoya
-- Huzaifa Abu Abu
+- Huzaifa Abu 
 - zunna Eneude
 - Jerry Iriri
 
