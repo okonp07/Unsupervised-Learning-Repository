@@ -129,7 +129,7 @@ Note that the dependencies required for the notebook to run must be installed in
 
 ### Resources
 
-It will help to rely on the materials provided by Explore Data Sciecnce Academy at their learning platform, But it is also recommended that the collaborators engege in personal research to augment information provided on Athena. please use these resources and kindly update this readme file with relevant links to meterial that may be beneficial to our work
+It will be beneficial to rely on the materials provided by Explore Data Science Academy on their learning platform, but it is also recommended that collaborators conduct personal research to supplement the information provided on Athena. Please make use of these resources and keep this readme file updated with relevant links to materials that may be useful to our work.
 
 ### Others
 
