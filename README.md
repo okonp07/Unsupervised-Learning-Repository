@@ -135,7 +135,7 @@ It will be beneficial to rely on the materials provided by Explore Data Science 
 
 Refer to our teams Trello board for details on tasks assigned to specific teammates, progress reports and other updates.
 
-- [Trello Board](https://trello.com/b/aUqUenyf/classification-predict...our trello board)
+- [Trello Board](https://trello.com/b/Lq21ugZq/teamnm2-movie-rating-prediction)
 
 Refer to the kaggle leader board to access details on the teams performance on the ongoing Kaggle challenge
 
