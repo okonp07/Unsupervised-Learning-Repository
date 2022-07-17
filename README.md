@@ -15,7 +15,7 @@ Below is the list of all the members of this team who are to participate in this
 - Prince Okon
 - Adewale Daniel Odukoya
 - Huzaifa Abu 
-- zunna Eneude
+- Izunna Eneude
 - Jerry Iriri
 
 **Supervisor: Nomfundo Manyisa**
