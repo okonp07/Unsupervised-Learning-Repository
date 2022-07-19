@@ -1,4 +1,4 @@
-# 2201ACDS_NM2 Unsupervised Learning Notebook
+# 2201ACDS_NM2 Unsupervised Learning  - Movie Predition
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ Below is the list of all the members of this team who are to participate in this
 - Prince Okon
 - Adewale Daniel Odukoya
 - Huzaifa Abu 
-- zunna Eneude
+- Izunna Eneude
 - Jerry Iriri
 
 **Supervisor: Nomfundo Manyisa**
@@ -135,7 +135,7 @@ It will be beneficial to rely on the materials provided by Explore Data Science 
 
 Refer to our teams Trello board for details on tasks assigned to specific teammates, progress reports and other updates.
 
-- [Trello Board](https://trello.com/b/aUqUenyf/classification-predict...our trello board)
+- [Trello Board](https://trello.com/b/Lq21ugZq/teamnm2-movie-rating-prediction)
 
 Refer to the kaggle leader board to access details on the teams performance on the ongoing Kaggle challenge
 
