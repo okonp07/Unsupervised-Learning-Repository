@@ -15,7 +15,7 @@ Below is the list of all the members of this team who are to participate in this
 - Prince Okon
 - Adewale Daniel Odukoya
 - Huzaifa Abu 
-- zunna Eneude
+- Izunna Eneude
 - Jerry Iriri
 
 **Supervisor: Nomfundo Manyisa**
@@ -143,4 +143,4 @@ Refer to the kaggle leader board to access details on the teams performance on t
 
 Refer to the presentation slides, by clicking on
 
-- [Presentation Slides](https://docs.google.com/presentation/d/1xBDXbAlgfS7AvcFOfY_RwvkqdzK8evD3ChHPKpBaQyo/edit#slide=id.g92a1ad2113_0_583..slide deck)
+- [Presentation Slides](https://docs.google.com/presentation/d/1oje2X49-cpqEB-631jv8q_7wyJrGES3cDbGoR1G2MAs/edit)
